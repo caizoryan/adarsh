@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.image {
+  width: 25vw;
+}
+
+image {
+  width: 100%;
+  height: 100%;
+}
